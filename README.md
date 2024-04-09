@@ -28,14 +28,14 @@ npm run serve
 
 ## Proof of testnet interaction
 
-After following the steps above you should have interacted with the testnet. You can check this at the [IBC Explorer](https://explorer.ethdenver.testnet.polymer.zone/).
+After following the steps above you should have interacted with the testnet. You can check this at the [IBC Explorer](https://sepolia.polymer.zone/).
 
 Here's the data of our application:
 
 - Contract (OP Sepolia) : 0xB49a654EcED1CF6FabE4C347faD2089490889fCE
 - Contract (Base Sepolia): 0xB49a654EcED1CF6FabE4C347faD2089490889fCE
-- Channel (OP Sepolia): 0xB49a654EcED1CF6FabE4C347faD2089490889fCE
-- Channel (Base Sepolia): 0xB49a654EcED1CF6FabE4C347faD2089490889fCE
+- Channel (OP Sepolia): channel-10
+- Channel (Base Sepolia): channel-11
 
 - Proof of Testnet interaction:
     - [SendTx](https://optimism-sepolia.blockscout.com/tx/0xc6c487902b7823d7f5ca3091c989b81bcccfcb4d3766825bcd7e84ab75eb2ea8)
